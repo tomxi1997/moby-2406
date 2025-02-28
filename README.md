@@ -1,3 +1,10 @@
+
+add some hacker skills to build static docker ，so can run on android
+
+
+
+
+
 The Moby Project
 ================
 
